@@ -65,11 +65,11 @@ MISSÃO ATUAL
 
 ### Como eu gosto de trabalhar
 
-```text
-curiosidade  ████████████████████  investigar antes de assumir
-clareza      ████████████████████  simplificar sem perder qualidade
-evolução     ████████████████████  melhorar um pouco a cada versão
-```
+🔎 **Investigar antes de assumir** — gosto de entender o problema por inteiro antes de escolher a solução.
+
+🧩 **Simplificar sem perder qualidade** — código bom também precisa fazer sentido para quem vem depois.
+
+🚀 **Evoluir a cada versão** — sempre há espaço para aprender, refinar e construir melhor.
 
 <div align="center">
   <br />
