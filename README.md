@@ -1,61 +1,52 @@
 <div align="center">
-  <img src="./assets/retro-header.svg" width="100%" alt="Banner retrô de Beatriz Martins Gonçalves" />
+  <img src="retro-header.svg" width="100%" alt="Beatriz — desenvolvimento, dados e automação" />
 </div>
-
-<br>
 
 <div align="center">
-  <a href="https://github.com/Biamg?tab=followers"><img src="https://img.shields.io/github/followers/Biamg?style=for-the-badge&color=ff4fd8&labelColor=17102b&logo=github&logoColor=white" alt="Seguidores no GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Biamg&style=for-the-badge&color=00d9ff&label=VISITAS" alt="Visitas ao perfil" />
+  <br />
+  <strong>Transformando sistemas complexos em experiências mais simples.</strong>
+  <br /><br />
+  <img src="https://img.shields.io/badge/STATUS-CRIANDO_COISAS_LEGAIS-ff4fd8?style=flat-square&labelColor=17102b" alt="Status: criando coisas legais" />
+  <img src="https://img.shields.io/badge/LOCAL-BRASIL-00d9ff?style=flat-square&labelColor=17102b" alt="Brasil" />
 </div>
 
-## `> quem_sou_eu.exe`
+### Oi, eu sou a Bia! 👾
+
+Sou desenvolvedora e gosto especialmente de projetos que pedem investigação, organização e uma boa dose de criatividade. Trabalho modernizando aplicações, conectando sistemas e transformando dados em experiências realmente úteis.
+
+Hoje, meus interesses vivem na interseção entre **desenvolvimento backend**, **dados**, **automação** e **inteligência artificial**.
 
 ```text
-Olá! Eu sou a Bia 👾
-
-Transformo necessidades de negócio em soluções que funcionam de verdade.
-Gosto de modernizar sistemas, integrar tecnologias e tornar dados mais úteis,
-com atenção tanto ao código quanto à experiência de quem usa.
+MISSÃO ATUAL
+├─ modernizar sistemas e portais
+├─ construir integrações que façam sentido
+├─ aproximar tecnologia e necessidades reais
+└─ aprender alguma coisa nova no caminho ✦
 ```
 
-- 🔭 Construindo e modernizando aplicações e portais corporativos
-- 📊 Trabalhando com integrações, relatórios e experiências orientadas a dados
-- 🧩 Explorando IA como parceira no desenvolvimento e na automação
-- 🌱 Sempre aprendendo — do backend ao detalhe visual
-
-## `> inventario_de_tecnologias`
+### Meu kit de ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,cs,python,js,html,css,git,github,docker&theme=dark&perline=11" alt="Java, Spring, .NET, C#, Python, JavaScript, HTML, CSS, Git, GitHub e Docker" />
+  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,cs,python,js,html,css,git,github,docker&theme=dark&perline=11" alt="Tecnologias: Java, Spring, .NET, C#, Python, JavaScript, HTML, CSS, Git, GitHub e Docker" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/Power_BI-FFD166?style=flat-square&logo=powerbi&logoColor=17102b" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-FF7A59?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/SQL-00D9FF?style=flat-square&logo=postgresql&logoColor=17102b" alt="SQL" />
+  <img src="https://img.shields.io/badge/APIs-FF4FD8?style=flat-square&logo=fastapi&logoColor=white" alt="APIs" />
+  <img src="https://img.shields.io/badge/IA-9D7BFF?style=flat-square&logo=openai&logoColor=white" alt="Inteligência Artificial" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=17102b" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/SQL-00d9ff?style=for-the-badge&logo=postgresql&logoColor=17102b" alt="SQL" />
-  <img src="https://img.shields.io/badge/APIs-ff4fd8?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs" />
-  <img src="https://img.shields.io/badge/IA-9d7bff?style=for-the-badge&logo=openai&logoColor=white" alt="Inteligência Artificial" />
-</div>
-
-## `> status_da_partida`
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Biamg&show_icons=true&hide_border=true&bg_color=17102b&title_color=ff4fd8&icon_color=ffd166&text_color=eee9ff&ring_color=00d9ff&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biamg&layout=compact&hide_border=true&bg_color=17102b&title_color=00d9ff&text_color=eee9ff&locale=pt-br" alt="Linguagens mais utilizadas" />
-</div>
-
-## `> filosofia_de_codigo`
-
-> **Curiosidade para investigar. Clareza para construir. Coragem para evoluir.**
+### Como eu gosto de trabalhar
 
 ```text
-[████████████████████████████████] carregando novas ideias... 100%
+curiosidade  ████████████████████  investigar antes de assumir
+clareza      ████████████████████  simplificar sem perder qualidade
+evolução     ████████████████████  melhorar um pouco a cada versão
 ```
 
 <div align="center">
-  <sub>feito com 💜, café e alguns pixels</sub>
+  <br />
+  <code>PRESS START TO BUILD SOMETHING NEW</code>
+  <br /><br />
+  <sub>feito com 💜, café e curiosidade</sub>
 </div>
-

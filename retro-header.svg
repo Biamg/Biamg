@@ -1,0 +1,22 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#17102B"/><stop offset=".55" stop-color="#261447"/><stop offset="1" stop-color="#102B46"/></linearGradient>
+    <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#FFD166"/><stop offset="1" stop-color="#FF4FD8"/></linearGradient>
+    <linearGradient id="title" x1="310" y1="100" x2="890" y2="230" gradientUnits="userSpaceOnUse"><stop stop-color="#FF4FD8"/><stop offset=".48" stop-color="#FFD166"/><stop offset="1" stop-color="#00D9FF"/></linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="7" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="sunClip"><circle cx="600" cy="170" r="116"/></clipPath>
+    <pattern id="grid" width="60" height="30" patternUnits="userSpaceOnUse"><path d="M60 0H0V30" stroke="#9D7BFF" stroke-opacity=".28"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <circle cx="600" cy="170" r="116" fill="url(#sun)" opacity=".86" filter="url(#glow)"/>
+  <g clip-path="url(#sunClip)" stroke="#261447" stroke-width="8"><path d="M470 177H730M470 199H730M470 222H730M470 246H730"/></g>
+  <path d="M0 296L235 245L385 285L560 237L735 283L912 230L1200 296V360H0V296Z" fill="#120C24"/>
+  <path d="M0 296L235 245L385 285L560 237L735 283L912 230L1200 296" stroke="#00D9FF" stroke-width="3" filter="url(#glow)"/>
+  <path d="M0 296H1200V360H0Z" fill="url(#grid)"/>
+  <path d="M600 296V360M440 296L380 360M760 296L820 360M280 296L150 360M920 296L1050 360" stroke="#FF4FD8" stroke-opacity=".32"/>
+  <g opacity=".9"><rect x="55" y="47" width="13" height="13" fill="#FF4FD8"/><rect x="91" y="89" width="8" height="8" fill="#FFD166"/><rect x="1106" y="58" width="12" height="12" fill="#00D9FF"/><rect x="1060" y="112" width="7" height="7" fill="#FF4FD8"/><path d="M173 67H189M181 59V75" stroke="#00D9FF" stroke-width="3"/><path d="M1005 58H1021M1013 50V66" stroke="#FFD166" stroke-width="3"/></g>
+  <text x="600" y="145" text-anchor="middle" fill="#EEE9FF" font-family="Consolas,monospace" font-size="20" font-weight="700" letter-spacing="7">PLAYER ONE</text>
+  <text x="600" y="209" text-anchor="middle" fill="url(#title)" stroke="#17102B" stroke-width="2" paint-order="stroke" font-family="Verdana,sans-serif" font-size="62" font-weight="900" letter-spacing="5" filter="url(#glow)">BEATRIZ</text>
+  <text x="600" y="247" text-anchor="middle" fill="#EEE9FF" font-family="Consolas,monospace" font-size="17" font-weight="700" letter-spacing="4">DEV • DATA • AUTOMATION</text>
+  <text x="70" y="330" fill="#00D9FF" font-family="Consolas,monospace" font-size="15">github.com/Biamg</text><text x="1130" y="330" text-anchor="end" fill="#FFD166" font-family="Consolas,monospace" font-size="15">READY!</text>
+</svg>
