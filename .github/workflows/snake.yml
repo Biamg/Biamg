@@ -1,4 +1,4 @@
-name: Gerar cobrinha de contribuições
+name: Gerar cobrinha de contribuicoes
 
 on:
   schedule:
@@ -16,17 +16,17 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Gerar animação
+      - name: Gerar animacao
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#ff4fd8&color_dots=#ebedf0,#ffd6f5,#d6c5ff,#7de9ff,#ffd166
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ff4fd8&color_dots=#161b22,#3b204f,#663b82,#00d9ff,#ffd166
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#7c3aed&color_dots=#f1f5f9,#ddd6fe,#c4b5fd,#67e8f9,#f472b6
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ffd166&color_dots=#161b22,#2d2140,#6246a8,#00bcd4,#ff4fd8
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Publicar animação
+      - name: Publicar animacao
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
