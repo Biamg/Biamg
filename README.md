@@ -65,15 +65,13 @@ MISSÃO ATUAL
 
 ### Como eu gosto de trabalhar
 
-🔎 **Investigar antes de assumir** — gosto de entender o problema por inteiro antes de escolher a solução.
+**Investigar antes de assumir** — gosto de entender o problema por inteiro antes de escolher a solução.
 
-🧩 **Simplificar sem perder qualidade** — código bom também precisa fazer sentido para quem vem depois.
+**Simplificar sem perder qualidade** — código bom também precisa fazer sentido para quem vem depois.
 
-🚀 **Evoluir a cada versão** — sempre há espaço para aprender, refinar e construir melhor.
+**Evoluir a cada versão** — sempre há espaço para aprender, refinar e construir melhor.
 
 <div align="center">
   <br />
-  <code>PRESS START TO BUILD SOMETHING NEW</code>
-  <br /><br />
-  <sub>feito com 💜, chocolate e curiosidade</sub>
+  <img src="snake-game.svg" width="100%" alt="Jogo da cobrinha retrô animado" />
 </div>
