@@ -73,5 +73,9 @@ MISSÃO ATUAL
 
 <div align="center">
   <br />
-  <img src="snake-game.svg" width="100%" alt="Jogo da cobrinha retrô animado" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Biamg/Biamg/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Biamg/Biamg/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Biamg/Biamg/output/github-contribution-grid-snake.svg" width="100%" alt="Cobrinha animada percorrendo as contribuições de B.ia" />
+  </picture>
 </div>
