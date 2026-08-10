@@ -73,9 +73,13 @@ MISSÃO ATUAL
 
 <div align="center">
   <br />
+  <sub>MINHAS CONTRIBUIÇÕES EM MODO ARCADE</sub>
+  <br /><br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Biamg/Biamg/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Biamg/Biamg/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Biamg/Biamg/output/github-contribution-grid-snake.svg" width="100%" alt="Cobrinha animada percorrendo as contribuições de B.ia" />
+    <img src="https://raw.githubusercontent.com/Biamg/Biamg/output/github-contribution-grid-snake.svg" width="88%" alt="Cobrinha animada percorrendo as contribuições de B.ia" />
   </picture>
+  <br />
+  <sub>cada quadrado conta uma parte da jornada</sub>
 </div>
